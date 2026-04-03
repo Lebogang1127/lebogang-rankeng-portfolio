@@ -1,45 +1,53 @@
-Lebogang Rankeng: Professional Portfolio 
+Lebogang Rankeng: Professional Portfolio
 
-About Me:
+About Me
 
-I am a dedicated and ambitious Grade 12 technical learner from Dinoto Technical School with a strong interest in engineering, mechanical technology, and technical sciences.
+I am a dedicated and ambitious young individual who completed my National Senior Certificate in 2025 at Dinoto Technical School. I have a strong interest in engineering, mechanical technology, and technical sciences.
 
 I am passionate about developing my skills and building a career in engineering where I can contribute meaningfully to industry and society.
 
 Career Objective
 
 To secure an opportunity where I can:
-Gain practical workplace experience
-Develop technical and engineering skills
-Contribute effectively within a professional environment
-Grow into a qualified engineering professional.
-Education:
 
-National Senior Certificate Dinoto Technical School Subjects:
-Engineering Graphics and Design
-Mechanical Technology
-Technical Mathematics
-Technical Science
-English First Additional Language
-Skills:
-Analytical thinking and problem-solving
-Engineering drawing and design basics
-Mechanical and technical understanding
-Communication and teamwork
-Time management and discipline
-Documents Included:
-CV 
-ID Copy
-Academic Results
-Supporting Documents
-Career Focus:
-Engineering Learnerships
-Apprenticeships 
-Technical Training Opportunities
-Contact Details:
+* Gain practical workplace experience
+* Develop technical and engineering skills
+* Contribute effectively in a professional environment
+* Grow into a qualified engineering professional
 
-Email: lebogangrankeng27@gmail.com Phone: 083 891 4224
+Education
 
-Personal Statement
+National Senior Certificate (Completed 2025)
+Dinoto Technical School
 
-I am committed to working hard, learning continuously, and building a strong foundation for a successful career in engineering.
+Subjects
+
+* Engineering Graphics and Design
+* Mechanical Technology
+* Technical Mathematics
+* Technical Science
+* English First Additional Language
+* Mathematical Literacy
+* Life Orientation
+
+Portfolio Structure
+
+CV
+
+Contains my full curriculum vitae.
+
+Documents
+Contains my supporting documents (ID and results).
+
+Projects
+Will contain practical and technical projects.
+
+Contact Details
+
+Phone: 083 891 4224
+Email: lebogangrankeng27@gmail.com
+Location: Daveyton, Gauteng, South Africa
+
+Closing Statement
+
+I am eager to learn, grow, and contribute in a professional environment. I am committed to building a strong future through discipline, consistency, and hard work.
